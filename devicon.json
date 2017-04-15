@@ -376,6 +376,14 @@
     }
   },
   {
+    "name": "jade",
+    "tags": ["programming", "language"],
+    "versions": {
+      "svg": ["original", "original-wordmark", "plain", "plain-wordmark"],
+      "font": ["plain", "plain-wordmark"]
+    }
+  },
+  {
     "name": "java",
     "tags": ["programming", "language"],
     "versions": {
@@ -664,6 +672,14 @@
     }
   },
   {
+    "name": "tomcat",
+    "tags": ["platform"],
+    "versions": {
+      "svg": ["original", "original-wordmark", "line", "line-wordmark"],
+      "font": ["plain", "plain-wordmark"]
+    }
+  },
+  {
     "name": "travis",
     "tags": ["platform", "integration"],
     "versions": {
@@ -704,11 +720,35 @@
     }
   },
   {
+    "name": "uirouter",
+    "tags": ["router"],
+    "versions": {
+      "svg": ["original", "plain"],
+      "font": ["plain"]
+    }
+  },
+  {
     "name": "vim",
     "tags": ["editor"],
     "versions": {
       "svg": ["original", "plain"],
       "font": ["plain"]
+    }
+  },
+  {
+    "name": "vuejs",
+    "tags": ["framework"],
+    "versions": {
+      "svg": ["original", "original-wordmark", "plain", "plain-wordmark", "line", "line-wordmark"],
+      "font": ["plain", "plain-wordmark"]
+    }
+  },
+  {
+    "name": "webpack",
+    "tags": ["packager"],
+    "versions": {
+      "svg": ["original", "original-wordmark", "plain", "plain-wordmark"],
+      "font": ["plain", "plain-wordmark"]
     }
   },
   {
